@@ -1,0 +1,23 @@
+DAFTAR PROMPT AI
+Tugas Komputasi Numerik
+Materi: Sistem Persamaan Linear (SPL) Tiga Variabel
+
+1. PROMPT MEMBUAT ALGORITMA SPL TIGA VARIABEL
+
+Buatkan algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss dengan pivot parsial. Sertakan langkah-langkah algoritma, pseudocode, contoh soal, dan hasil perhitungan.
+
+2. PROMPT MEMBUAT KODE PYTHON GOOGLE COLAB
+
+Buatkan kode Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan metode Eliminasi Gauss dengan pivot parsial. Pisahkan kode menjadi beberapa cell agar mudah dijalankan di Google Colab.
+
+3. PROMPT MENAMBAHKAN PENJELASAN PADA SETIAP BAGIAN KODE
+
+Tambahkan komentar dan penjelasan pada setiap bagian kode Python agar mudah dipahami. Jelaskan fungsi setiap proses, mulai dari memasukkan matriks, memilih pivot, eliminasi, substitusi balik, hingga memperoleh hasil.
+
+4. PROMPT MEMERIKSA HASIL PERHITUNGAN
+
+Periksa hasil perhitungan SPL tiga variabel menggunakan kode Python. Tampilkan nilai x, y, dan z, kemudian verifikasi hasilnya dengan memasukkan kembali nilai tersebut ke persamaan awal.
+
+TUJUAN PENGGUNAAN AI
+
+AI digunakan sebagai alat bantu untuk memahami algoritma, membuat kode Python, memberikan penjelasan kode, dan memeriksa hasil perhitungan SPL tiga variabel.
