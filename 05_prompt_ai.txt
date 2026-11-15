@@ -1,23 +1,35 @@
-DAFTAR PROMPT AI
-Tugas Komputasi Numerik
-Materi: Sistem Persamaan Linear (SPL) Tiga Variabel
 
-1. PROMPT MEMBUAT ALGORITMA SPL TIGA VARIABEL
+DOKUMENTASI PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+SISTEM PERSAMAAN LINEAR 3 VARIABEL
 
-Buatkan algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss dengan pivot parsial. Sertakan langkah-langkah algoritma, pseudocode, contoh soal, dan hasil perhitungan.
+Platform AI: ChatGPT
+Topik: Metode Eliminasi Gauss
 
-2. PROMPT MEMBUAT KODE PYTHON GOOGLE COLAB
+========================================
+PROMPT 1 - MEMBUAT ALGORITMA
+========================================
 
-Buatkan kode Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan metode Eliminasi Gauss dengan pivot parsial. Pisahkan kode menjadi beberapa cell agar mudah dijalankan di Google Colab.
+Tolong bantu saya membuat algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss. Jelaskan tujuan, pengertian, bentuk umum persamaan, langkah-langkah algoritma, contoh soal, dan kesimpulan. Gunakan bahasa Indonesia yang mudah dipahami.
 
-3. PROMPT MENAMBAHKAN PENJELASAN PADA SETIAP BAGIAN KODE
+========================================
+PROMPT 2 - MEMBUAT KODE PYTHON
+========================================
 
-Tambahkan komentar dan penjelasan pada setiap bagian kode Python agar mudah dipahami. Jelaskan fungsi setiap proses, mulai dari memasukkan matriks, memilih pivot, eliminasi, substitusi balik, hingga memperoleh hasil.
+Tolong buatkan kode Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan metode Eliminasi Gauss berdasarkan algoritma yang telah dibuat. Susun kode dalam beberapa cell Google Colab agar dapat dijalankan satu per satu. Berikan contoh tiga persamaan dan tampilkan hasil nilai x, y, dan z.
 
-4. PROMPT MEMERIKSA HASIL PERHITUNGAN
+========================================
+PROMPT 3 - MEMBERIKAN PENJELASAN KODE
+========================================
 
-Periksa hasil perhitungan SPL tiga variabel menggunakan kode Python. Tampilkan nilai x, y, dan z, kemudian verifikasi hasilnya dengan memasukkan kembali nilai tersebut ke persamaan awal.
+Tolong tambahkan komentar penjelasan menggunakan tanda # pada setiap bagian kode Python SPL tiga variabel. Jelaskan fungsi setiap bagian kode, mulai dari memasukkan data persamaan, proses eliminasi maju, substitusi balik, hingga menampilkan hasil perhitungan.
 
-TUJUAN PENGGUNAAN AI
+========================================
+PROMPT 4 - MEMERIKSA HASIL PROGRAM
+========================================
 
-AI digunakan sebagai alat bantu untuk memahami algoritma, membuat kode Python, memberikan penjelasan kode, dan memeriksa hasil perhitungan SPL tiga variabel.
+Tolong periksa hasil perhitungan program Python penyelesaian SPL tiga variabel menggunakan metode Eliminasi Gauss. Pastikan hasil nilai x, y, dan z benar dengan cara memasukkan kembali hasil perhitungan ke dalam ketiga persamaan awal.
+
+========================================
+AKHIR DOKUMENTASI PROMPT AI
+========================================
